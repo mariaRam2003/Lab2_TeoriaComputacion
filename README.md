@@ -10,7 +10,7 @@ Este proyecto es nuestro laboratorio 2 del curso Teoria de la Computacion en bas
 
 ## Features
 - 📝 **Documentacion**: En el programa del Ejercicio No.3 se coloca la documentacion necesaria para poder comprender de mejor manera el codigo.
-- 🧩 **Video**: Enlace de video enseñando el funcionamiento del código tanto para el Ejercicio No.2 como para el Ejercicio No.3: 
+- 🧩 **Video**: Enlace de video enseñando el funcionamiento del código tanto para el Ejercicio No.2 como para el Ejercicio No.3: https://youtu.be/W9Ex0M-8b-s 
 
 ## Instrucciones de Ejecución para el Ejercicio No.3
 1. Clona el repositorio en tu máquina local usando:
