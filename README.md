@@ -4,8 +4,9 @@
 Este proyecto es nuestro laboratorio 2 del curso Teoria de la Computacion en base a Automatas Finitos.
 
 ## Tecnologías Implementadas
+- ⚛ **Python**: Utilizado para construir el código de alto nivel del Ejercicio No.2
 - ⚛ **Python**: Utilizado para construir el código de alto nivel del Ejercicio No.3
-- ⚛ **Python**: Utilizado para construir el código de alto nivel del Ejercicio No.3
+- 🌐 **Shunting Yard**: Utilizado para la realizacion del Ejercicio No.3
 
 ## Features
 - 📝 **Documentacion**: En el programa del Ejercicio No.3 se coloca la documentacion necesaria para poder comprender de mejor manera el codigo.
